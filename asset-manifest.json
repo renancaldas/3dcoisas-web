@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "https://renancaldas.github.io/3dcoisas-web/static/css/main.bd33aee1.css",
-    "main.js": "https://renancaldas.github.io/3dcoisas-web/static/js/main.db28c4c1.js",
+    "main.css": "https://renancaldas.github.io/3dcoisas-web/static/css/main.beeb1610.css",
+    "main.js": "https://renancaldas.github.io/3dcoisas-web/static/js/main.e8ad1c25.js",
     "static/js/787.f222862b.chunk.js": "https://renancaldas.github.io/3dcoisas-web/static/js/787.f222862b.chunk.js",
     "static/media/backlapse.mp4": "https://renancaldas.github.io/3dcoisas-web/static/media/backlapse.94e56086a2fcae0325dd.mp4",
     "static/media/logo2.png": "https://renancaldas.github.io/3dcoisas-web/static/media/logo2.7757ab34ee3b19901973.png",
     "static/media/whats.png": "https://renancaldas.github.io/3dcoisas-web/static/media/whats.0c2722b03821d5460b67.png",
     "index.html": "https://renancaldas.github.io/3dcoisas-web/index.html",
-    "main.bd33aee1.css.map": "https://renancaldas.github.io/3dcoisas-web/static/css/main.bd33aee1.css.map",
-    "main.db28c4c1.js.map": "https://renancaldas.github.io/3dcoisas-web/static/js/main.db28c4c1.js.map",
+    "main.beeb1610.css.map": "https://renancaldas.github.io/3dcoisas-web/static/css/main.beeb1610.css.map",
+    "main.e8ad1c25.js.map": "https://renancaldas.github.io/3dcoisas-web/static/js/main.e8ad1c25.js.map",
     "787.f222862b.chunk.js.map": "https://renancaldas.github.io/3dcoisas-web/static/js/787.f222862b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd33aee1.css",
-    "static/js/main.db28c4c1.js"
+    "static/css/main.beeb1610.css",
+    "static/js/main.e8ad1c25.js"
   ]
 }
